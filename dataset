@@ -1,0 +1,9 @@
+dataset
+  images
+  1.island_1
+  2island_2
+  3.water_1
+  4.mainland_1
+  Masks
+  1.island_1
+  2.island_2
